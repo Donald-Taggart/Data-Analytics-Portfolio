@@ -7,6 +7,5 @@ Those were the instructions for the third milestone project from the University 
 ![](/images/Milestone_Project_3_Cover_Slide.png)
 
 
-During my studies I learned how to construct and evaluate various machine learninig pipelines using the Wisconsin Breast Cancer Data, which uses BI-RADS ultrasound data to predict 
 
-[Presentation](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone%20Project%203%20-%20Mammography%20Presentation.pptx)
+[PowerPoint Presentation](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone%20Project%203%20-%20Mammography%20Presentation.pptx) click 'view raw'
