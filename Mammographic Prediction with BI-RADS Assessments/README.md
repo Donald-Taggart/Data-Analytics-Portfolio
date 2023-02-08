@@ -4,7 +4,7 @@
 
 Those were the instructions for the third milestone project from the University of Wisconsin Data Science and Analytics Bootcamp, and this is truely a personal project.  My wife is a breast cancer survivor you see.  
 
-![](Mammographic Prediction with BI-RADS Assessments/Milestone 3 Cover Slide.pdf)
+![](Mammographic Prediction with BI-RADS Assessments/Milestone%203%20Cover%20Slide.pdf)
 
 
 During my studies I learned how to construct and evaluate various machine learninig pipelines using the Wisconsin Breast Cancer Data, which uses BI-RADS ultrasound data to predict 
