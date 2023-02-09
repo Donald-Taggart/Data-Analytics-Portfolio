@@ -12,7 +12,7 @@ Prior to 2003, researchers in Nuremberg, Germany found that only 30% of breast b
 
 ## Machine Learning Models
 
-The project code is contained in a Google Colaboratory notebook.  It utilizes Python for data wrangling, exploratory data analysis, encoding, machine learning pipeline development, and hyperparameter tuning.  Prominent libraries include Pandas, Scikit Learn, Matplotlib, and Plotly.  Several machine learning models were developed to determine which produced the best precision.
+The project code is contained in a [Google Colaboratory](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone_Project_3_Mammography.ipynb) notebook.  It utilizes Python for data wrangling, exploratory data analysis, encoding, machine learning pipeline development, and hyperparameter tuning.  Prominent libraries include Pandas, Scikit Learn, Matplotlib, and Plotly.  Several machine learning models were developed to determine which produced the best precision.
 
 ## Presentation
 
