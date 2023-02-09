@@ -1,4 +1,4 @@
-![](/images/Milestone_Project_3_Cover_Slide.png)
+![](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone_Project_3_Cover_Slide.png)
 
 > ### "Find a data set on a subject you care about, and do something with it."  -- Sincerly your instructor
 
