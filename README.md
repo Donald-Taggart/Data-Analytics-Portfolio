@@ -9,7 +9,9 @@ This repository contains projects and visualizations created from the Data Scien
 
 ## Machine Learning
 
-[Mammographic Prediction with BI-RADS Assessments](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/)
+![](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone_Project_3_Cover_Slide.png)
+
+[Mammographic Prediction with BI-RADS Assessments Repository](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/)
 
 *	Using BI-RADS assessment data, developed multiple machine learning classification models to predict malignant breast cancer tumors and reduce the number of unnecessary biopsies.
 *	Utilized Python for data wrangling, exploratory data analysis, encoding, machine learning pipeline development, and hyperparameter tuning.
