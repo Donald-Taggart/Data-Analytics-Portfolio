@@ -16,6 +16,6 @@ In addition to personal projects, this repository contains projects and visualiz
 
 ## Visual Communications
 
-[![](/Quaker_Property_and_Casualty/Screenshot_20230213_121713.png)](/Quaker_Property_and_Casualty/)
+[![](/Quaker_Property_and_Casualty/Screenshot_20230213_121713.png)](https://public.tableau.com/views/BusinessIntelligenceFinalProject_16763102730270/EarthquakeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Make a bulleted writeup here
+This is the final project for the University of Wisconsin Data Science and Analytics Bootcamp business intelligence section. The project utilized Tableau Public to make a simple interactive dashboard and present it to the class.  The data set was provided in .csv and needed minimal cleaning.  We were required to create parameters and measures, apply filters, enhance tooltips, and present a visually appealing display.  You can view and interact with the dashboard on Tableau Public by clicking the [picture](https://public.tableau.com/views/BusinessIntelligenceFinalProject_16763102730270/EarthquakeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) above.  The [data set](Donald-Taggart/Data-Analytics-Portfolio/Quaker_Property_and_Casualty/) is here.  
