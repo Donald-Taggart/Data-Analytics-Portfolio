@@ -1,13 +1,6 @@
 # Data Science & Analytics Portfolio
 In addition to personal projects, this repository contains projects and visualizations created during the University of Wisconsin Data Science and Analytics Bootcamp.
 
-## SQL
-
-## Statistics
-
-## Visual Communications
-
-
 ## Machine Learning
 
 [![](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone_Project_3_Cover_Slide.png)](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/)
@@ -16,4 +9,10 @@ In addition to personal projects, this repository contains projects and visualiz
 *	Utilized Python for data wrangling, exploratory data analysis, encoding, machine learning pipeline development, and hyperparameter tuning.
 *	Presented results to faculty and students virtually, via Zoom and Microsoft PowerPoint, as the capstone project for the University of Wisconsin Data Science and Analytics Bootcamp.
 
+
+## SQL
+
+## Statistics
+
+## Visual Communications
 
