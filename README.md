@@ -2,24 +2,9 @@
 In addition to personal projects, this repository contains projects and visualizations created during the University of Wisconsin Data Science and Analytics Bootcamp.
 
 ## Machine Learning
+[![](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone_Project_3_Cover_Slide.png)](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone%20Project%203%20-%20Mammography%20Presentation.pdf)
 
-[![](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone_Project_3_Cover_Slide.png)](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/)
-
-*	Using BI-RADS assessment data, developed multiple machine learning classification models to predict malignant breast cancer tumors and reduce the number of unnecessary biopsies.
-*	Utilized Python for data wrangling, exploratory data analysis, encoding, machine learning pipeline development, and hyperparameter tuning.
-*	Presented results to faculty and students virtually, via Zoom and Microsoft PowerPoint, as the capstone project for the University of Wisconsin Data Science and Analytics Bootcamp.
-
-This is the capstone project for the University of Wisconsin Data Science and Analytics Bootcamp.  It's a machine learning project 
-
-
-
-
-
-
-
-
-
-
+This is the capstone project for the University of Wisconsin Data Science and Analytics Bootcamp.  The instructions were simply, "Find a data set on a subject you care about and do something with it."  The project seeks to improve diagnostic precision in identifying malignant breast cancer tumors by applying a machine learning model to BI-RADS assessment data.  The code is contained in a [Google Colaboratory](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone_Project_3_Mammography.ipynb) notebook.  It utilizes Python for data wrangling, exploratory data analysis, encoding, machine learning pipeline development, and hyperparameter tuning.  Prominent libraries include Pandas, Scikit Learn, Matplotlib, and Plotly.  Several machine learning models were developed to determine which produced the best precision.  The final presentation is viewable by clicking on the [picture](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone%20Project%203%20-%20Mammography%20Presentation.pdf) above and the data and additional information is [here](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/).
 
 ## Business Intelligence
 
