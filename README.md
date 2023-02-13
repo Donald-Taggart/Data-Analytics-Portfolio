@@ -9,6 +9,18 @@ In addition to personal projects, this repository contains projects and visualiz
 *	Utilized Python for data wrangling, exploratory data analysis, encoding, machine learning pipeline development, and hyperparameter tuning.
 *	Presented results to faculty and students virtually, via Zoom and Microsoft PowerPoint, as the capstone project for the University of Wisconsin Data Science and Analytics Bootcamp.
 
+This is the capstone project for the University of Wisconsin Data Science and Analytics Bootcamp.  It's a machine learning project 
+
+
+
+
+
+
+
+
+
+
+
 ## Business Intelligence
 
 [![](/Quaker_Property_and_Casualty/Screenshot_20230213_121713.png)](https://public.tableau.com/views/BusinessIntelligenceFinalProject_16763102730270/EarthquakeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
