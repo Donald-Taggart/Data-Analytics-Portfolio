@@ -1,4 +1,4 @@
-[![](/Quaker_Property_and_Casualty/Screenshot_20230213_121713.png)](https://public.tableau.com/app/profile/donald.taggart/viz/BusinessIntelligenceFinalProject_16763102730270/EarthquakeDashboard)
+[![](/Quaker_Property_and_Casualty/Screenshot_20230213_121713.png)](https://public.tableau.com/views/BusinessIntelligenceFinalProject_16763102730270/EarthquakeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 > ### "Find a data set on a subject you care about and do something with it."  -- Sincerely your instructor
 
