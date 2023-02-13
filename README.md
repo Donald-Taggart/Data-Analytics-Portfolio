@@ -16,3 +16,4 @@ In addition to personal projects, this repository contains projects and visualiz
 
 ## Visual Communications
 
+[Dashboard](https://public.tableau.com/app/profile/donald.taggart/viz/BusinessIntelligenceFinalProject_16763102730270/EarthquakeDashboard)
