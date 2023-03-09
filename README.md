@@ -1,5 +1,5 @@
 # Data Science & Analytics Portfolio
-In addition to personal projects, this repository contains projects and visualizations created during the University of Wisconsin Data Science and Analytics Bootcamp.
+In addition to personal projects, this repository contains projects and visualizations created during the University of Wisconsin Data Science and Analytics Professional Certificate course.
 
 ## Machine Learning
 [![](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone_Project_3_Cover_Slide.png)](/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/Milestone%20Project%203%20-%20Mammography%20Presentation.pdf)
